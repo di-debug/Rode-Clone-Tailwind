@@ -1,18 +1,30 @@
-# Hi I am Deepak 
+> ## Deepak Nandi
 
-# Project 13 - HTML ![](./readmeImages/html-5.png) and CSS ![](./readmeImages/css-3.png)
+<br/>
+
+![mobile-responsive](https://img.shields.io/badge/Mobile%20Responsive-Yes-red)
+[![Deployed](https://img.shields.io/badge/Deployed-Yes-green)](#)
+![Time](https://img.shields.io/badge/Time%20Taken-10hrs-green)
+
+## Tech Stack:
+
+![HTML](https://img.shields.io/badge/html-3670A0?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%234ea94b.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+### Checkout the live website [here](https://tailwindcss3-paytm-clone.netlify.app/).
+
+---
+
+## My Learnings
+-  Learned to create and use css variables in this project.
+- Learned to clone website using Tilwind css.
+- Learned to used inline tailwind css elements and hover effect.
 
 
-Here's the Live Deployed Website ![Project 13](https://img.shields.io/badge/Project-13-brightgreen)
+---
+## How the website looks like
 
-## [DEPLOYED WEBSITE LINK](https://isaas.netlify.app/)
+### Desktop Mode ![Tablet](./Rode%20Clone.png)
 
-![Completed Website](./Rode%20Clone%20%20%20Tailwind.png)
-
-![Responsive](./Rode%20Clone%20%20%20Tailwind%20resonsive%20banner.png)
-
-![Responsive](./Rode%20Clone%20%20%20Tailwind%20responsive1.png)
-
-
-
-## This project took around **12 hours** to complete.
